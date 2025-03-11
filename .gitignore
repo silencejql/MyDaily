@@ -1,0 +1,4 @@
+#ignore
+.git/
+.obsidian/
+.README.md.swp
